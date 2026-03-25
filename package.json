@@ -1,0 +1,15 @@
+{
+  "name": "feishu-coze-bridge",
+  "version": "1.0.0",
+  "description": "飞书机器人消息桥接 - 转发到 Coze API",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}

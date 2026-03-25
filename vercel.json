@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/index.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "COZE_API_TOKEN": "pat_JCxceN73fGT6Ureq4NYYurTMLpsv9dRr3uDkdiDBTu6ebCTeGiMsQk3heBnNvBh5",
+    "FEISHU_APP_ID": "cli_a94e8af51e785cef",
+    "FEISHU_APP_SECRET": "Xe5yG2ECd2EJtF60D7FMFgFnJuY6JEhR"
+  }
+}
